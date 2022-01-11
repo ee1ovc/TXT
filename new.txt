@@ -2,5 +2,4 @@
         surname: Ovcharenko
         age: 33
         pet count: 0
-        wanted salary: 55000
-        
+        wanted salary: 55000   

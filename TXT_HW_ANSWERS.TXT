@@ -79,10 +79,34 @@ skills to learn:
 
  press ESC
  :wq
- 13. Сделать коммит в одну строку.
+ 13. Сделать коммит в одну строку. 
+git commit -am "New changes"
  14. Отправить сразу 2 файла на внешний репозиторий.
+git push
  15. На веб интерфейсе создать файл bug_report.txt.
+https://github.com/ > Sign in > Click ee1ovc/TXT Repositorie > Click Add file > Create New fille > Click "Name your file ..." tab > Enter "bug_report.txt"
  16. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+ Enter Commit > Click "Commit changes"
  17. На веб интерфейсе модифицировать файл bug_report.txt, добавить баг репорт в формате TXT.
+	
+ Id: 1
+ Summary: Typo in word сторона
+ Str:
+  1) Open telegram
+  2) Sign in
+  3) Click Search",
+  4) Enter 26_Channel_Qa
+  5) Click on 26_Channel_QA
+  6) On top right corner Click magnifier
+  7) Enter Git Homework1
+  8) Check number 13 in list
+  Actual result: Typo in word сторона
+ Expected result: cтрана
+ Severity: Trivial
+ Priority: Low
+
  18. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+Enter Commit > Click "Commit changes"
  19. Синхронизировать внешний и локальный репозиторий TXT
+git fetch
+git pull

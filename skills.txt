@@ -1,0 +1,30 @@
+course name: Vadim Ksenzov courses
+courses length: 3 months
+skills to learn:
+1)Baisc Theory 
+2)Client–server model
+3)HTTP server request
+4)HTTP response status code
+5)HTTP request/response structure
+6)JSON/XML and thier structure
+7) API testing thru Postman (JS, autotest API)
+8)View and read logs on a remote server
+9)HTTP/WEB snifing with Charles/Fiddler
+10)Browser web developer tools (Chrome,Firefox)
+11)VPN explained
+12) Mobiles testing
+13) iOS/Andriod features, guidelines
+14) iOS app build in Xcode
+15) Android app build in Andriod Studio
+16) ADB (Android Debug Bridge)
+17) VPN proxy setting iOS/Android
+18) Mobile snifing Charles/Fiddler in iOS/Andriod
+19) Terminal linux
+20) Bash scripting, automation basic server tasks
+21) Remote server access
+22) Sql basics
+23) Postgres Database
+24) Redis (REmote DIctionary Server)
+25) Load testing in Jmeter
+26) Scrum Methodology
+27) Python basics

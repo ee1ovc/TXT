@@ -1,0 +1,5 @@
+favorite movie: Terminator 2
+favorite series: Cowboy Bebop - anime series
+favorite food: Chicken Pasta
+favorite season: Summer
+country to visit: Japan

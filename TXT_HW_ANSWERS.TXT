@@ -80,7 +80,7 @@ skills to learn:
  press ESC
  :wq
  13. Сделать коммит в одну строку. 
-git commit -am "New changes"
+git add . && git commit -m "2 files eddit"
  14. Отправить сразу 2 файла на внешний репозиторий.
 git push
  15. На веб интерфейсе создать файл bug_report.txt.

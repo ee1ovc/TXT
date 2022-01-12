@@ -1,1 +1,15 @@
-
+ Id: 1
+ Summary: Typo in word сторона
+ Str:
+  1) Open telegram
+  2) Sign in
+  3) Click Search",
+  4) Enter 26_Channel_Qa
+  5) Click on 26_Channel_QA
+  6) On top right corner Click magnifier
+  7) Enter Git Homework1
+  8) Check number 13 in list
+  Actual result: Typo in word сторона
+ Expected result: cтрана
+ Severity: Trivial
+ Priority: Low
